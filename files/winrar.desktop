@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Winrar
+Type=Application
+Terminal=false
+Categories=Utility;
+X-TDE-StartupNotify=true
+Comment=Winrar archiver for Linux
+Icon=winrar.png
+Exec="$HOME/.win64/winrar.sh" %u
