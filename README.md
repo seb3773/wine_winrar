@@ -11,4 +11,5 @@ Instructions:
 clone the repository, an cd to the wine_winrar folder  
 set install_winrar.sh executable: sudo chmod +x ./install_winrar.sh  
 launch the installer: ./install_winrar.sh  
+  
 Enjoy.
