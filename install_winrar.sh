@@ -15,7 +15,6 @@ sudo apt install -y --install-recommends winehq-stable >> ./setup.log 2>&1
 fi
 
 osarch=$(dpkg --print-architecture)
-osarch="test"
 if [ "$osarch" = "amd64" ]; then
 prefx=".win64";warch="win64"
 setupfile="winrar-x64-623.exe"
